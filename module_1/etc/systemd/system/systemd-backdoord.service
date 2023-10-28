@@ -1,0 +1,10 @@
+[Unit]
+Description=nosystemd.org
+
+[Service]
+Type=oneshot
+ExecStart=/root/unit/script.sh
+
+[Install]
+WantedBy=multi-user.target
+
