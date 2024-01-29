@@ -1,3 +1,6 @@
 [submodule "module_2"]
 	path = module_2
 	url = ssh://git@gitlab-tusur.faciem.ru/student-repos/practice_git_cirno.git
+[submodule "module_3/1_docker/cv"]
+	path = module_3/1_docker/cv
+	url = https://github.com/6yntar05/TUSUR-DevOps-Task-3.1
